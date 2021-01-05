@@ -1,5 +1,5 @@
 # RealmCRUD-Operations_SwiftUI
-Framework Realm doing CRUD operations
+Framework Realm making CRUD operations
 
 Realm Framework for SwiftUI
 CRUD Operations
